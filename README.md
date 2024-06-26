@@ -1,8 +1,7 @@
-# Abdelrahman Ashour
+<h1 align="center">Hi 👋, I'm Abdelrahman Ashour</h1>
+<h3 align="center">Data Scientist & Data Analytics Engineer</h3>
 
-<p align="center">
-  <img src="https://github.com/Abdoo50/Abdoo50/blob/main/My%20Photo.jpg" width="200" alt="Abdelrahman Ashour">
-</p>
+<p align="left"> <img src="https://github.com/Abdoo50/Abdoo50/blob/main/My%20Photo.jpg" width="200" alt="Abdelrahman Ashour"> </p>
 
 ---
 
@@ -14,7 +13,7 @@ Hello! I am Abdelrahman Ashour, a Data Scientist & Data Analytics Engineer with 
 
 ## 🧑‍💼 Professional Summary
 
-I am a Data Analyst with over two years of experience in the field. My expertise spans from developing complex data models to crafting interactive dashboards that facilitate data comprehension and decision-making. Proficient in various analytical tools and programming languages, I excel in converting raw data into valuable insights that promote business growth.
+I am a Data Scientist & Data Analytics Engineer with over two years of experience in the field. My expertise spans from developing complex data models to crafting interactive dashboards that facilitate data comprehension and decision-making. Proficient in various analytical tools and programming languages, I excel in converting raw data into valuable insights that promote business growth.
 
 ---
 
@@ -35,12 +34,6 @@ I am a Data Analyst with over two years of experience in the field. My expertise
 - 🔍 Conducted extensive data cleansing and exploratory analysis, ensuring high data integrity.
 - 🤖 Deployed machine learning models to solve complex analytical problems.
 - 🎨 Designed and developed data visualizations to communicate insights to stakeholders.
-
-### 🎓 Data Science Internships
-
-- **🌍 World-Quant University (Remote):** Focused on data cleaning, model building, and data visualization.
-- **🚀 Launchpad.ai:** Contributed to the development of language models and data science applications for NLP.
-- **🏦 CIB Egypt:** Analyzed financial data to provide actionable insights, enhancing business decisions.
 
 ---
 
