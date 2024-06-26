@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ashour</h1>
 <h3 align="center">Data Scientist & Data Analytics Engineer</h3>
 
-<p align="left"> <img src="https://github.com/Abdoo50/Abdoo50/blob/main/My%20Photo.jpg" width="200" alt="Abdelrahman Ashour"> </p>
+<p align="center"> <img src="https://github.com/Abdoo50/Abdoo50/blob/main/My%20Photo.jpg" width="200" alt="Abdelrahman Ashour"> </p>
 
 ---
 
