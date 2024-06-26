@@ -8,7 +8,7 @@
 
 ## 🌟 Welcome to My GitHub Profile
 
-Hello! I am Abdelrahman Ashour, a Data Analyst with a strong background in Computer Science and AI. I specialize in data analysis, visualization, and machine learning, turning complex datasets into actionable business insights. My passion lies in uncovering data patterns and providing strategic recommendations to drive business success.
+Hello! I am Abdelrahman Ashour, a Data Scientist & Data Analytics Engineer with a strong background in Computer Science and AI. I specialize in data analysis, visualization, and machine learning, turning complex datasets into actionable business insights. My passion lies in uncovering data patterns and providing strategic recommendations to drive business success.
 
 ---
 
