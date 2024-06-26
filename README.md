@@ -1,8 +1,8 @@
 # Abdelrahman Ashour
 
-![Abdelrahman Ashour](https://github.com/Abdoo50/Abdoo50/blob/main/My%20Photo.jpg)
-
----
+<p align="center">
+  <img src="https://github.com/Abdoo50/Abdoo50/blob/main/My%20Photo.jpg" width="200" alt="Abdelrahman Ashour">
+</p>
 
 ## Welcome to My GitHub Profile
 
