@@ -69,8 +69,7 @@ Created an interactive Tableau dashboard to visualize data science salary trends
 
 ## 🎓 Education and Certifications
 
-- **🎓 Bachelor of Computer Science and AI | Beni Suef University, Egypt**
-  - *📅 2020 - 2023*
+- **🎓 Bachelor of Computer Science and AI | Beni Suef University, Egypt
   - GPA: 3.02/4.00
 
 - **📜 Certifications:**
